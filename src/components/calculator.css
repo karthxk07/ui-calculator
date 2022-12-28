@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'myFirstFont';
+    src: url(digital-7.regular.ttf);
+}
+#output{
+    font-family: myFirstFont;
+    font-size:xx-large;
+}
+.calc{
+    border-color: yellow;
+    animation-name: load-keys;
+    animation-duration: 1s;
+}
+.key{
+    animation-name: load-keys;
+    animation-duration: 1s;
+    cursor: pointer;
+}
+@keyframes load-keys {
+    0%{
+    
+        scale: 110%;
+    }
+    100%{
+        scale:100%;
+    }
+    
+}
+.text-yellow{
+    color: yellow;
+}
+.font-myFirstFont{
+    font-family: myFirstFont;
+}
+#outputDisplay {
+    animation :load 2s;
+    overflow: hidden;
+    display: none;
+}
