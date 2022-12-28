@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ui-calculator/static/css/main.382824bc.css",
+    "main.js": "/ui-calculator/static/js/main.93d5827a.js",
+    "static/media/bg.png": "/ui-calculator/static/media/bg.1f5f24a0aeccd9bfb5cc.png",
+    "static/media/digital-7.regular.ttf": "/ui-calculator/static/media/digital-7.regular.93911ab167c943140756.ttf",
+    "index.html": "/ui-calculator/index.html",
+    "main.382824bc.css.map": "/ui-calculator/static/css/main.382824bc.css.map",
+    "main.93d5827a.js.map": "/ui-calculator/static/js/main.93d5827a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.382824bc.css",
+    "static/js/main.93d5827a.js"
+  ]
+}
